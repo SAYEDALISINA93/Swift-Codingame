@@ -1,3 +1,4 @@
+/***
 # 🚀 Mountain Destroyer - Swift Solution
 
 ## 📋 Problem Description
@@ -51,8 +52,9 @@ This Swift implementation uses a **greedy algorithm** approach:
 
 **Perfect for:** CodinGame challenges, algorithm practice, and learning Swift game loop structures! 🎓
 
+*/
 
-```import Glibc
+import Glibc
 import Foundation
 
 public struct StderrOutputStream: TextOutputStream {
@@ -97,4 +99,3 @@ while true {
 
 
 }
-```
