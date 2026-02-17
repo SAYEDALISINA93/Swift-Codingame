@@ -1,3 +1,4 @@
+/***
 # ⚡ Thor's Power Quest - Swift Solution
 ## 📋 Problem Description
 The Goal: Guide Thor across a grid map to reach the light of power using optimal directional movements.
@@ -21,8 +22,8 @@ SW    S    SE
 ### Victory & Defeat Conditions
 - ✅ Win: Thor reaches the exact light coordinates
 - ❌ Lose: Thor moves outside the map boundaries
-
-```import Glibc
+*/
+import Glibc
 import Foundation
 
 public struct StderrOutputStream: TextOutputStream {
@@ -98,4 +99,3 @@ while true {
         print("NW")
     }
 }
-```
